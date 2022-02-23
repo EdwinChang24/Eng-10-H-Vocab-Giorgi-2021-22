@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains the vocabulary sets for English 10 Honors 2021-22, from Mr. Giorgi at Davis Senior High. I will try to maintain this repository for the entire school year. There is no specific purpose for this repository, it is just for anyone who finds it useful.
+This repository contains the vocabulary sets for English 10 Honors 2021-22, from Mr. Giorgi at Davis Senior High School. I will try to maintain this repository for the entire school year. There is no specific purpose for this repository, it is just for anyone who finds it useful.
 
 ## Explanation
 
